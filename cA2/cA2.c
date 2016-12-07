@@ -3,7 +3,7 @@
 //Author: Alex Guerrero
 //Date: October 15, 2013
 //Description:  This program calculates powers of user inputted bases and exponents through the
-//              use of a prgrammer created powerCalc() function.  The user inputs values through the direction of a menu. 
+//              use of a powerCalc() function.  The user inputs values through the direction of a menu. 
 //              The program also checks the values entered by the user with a range checking function called rangeCheck().
 
 
